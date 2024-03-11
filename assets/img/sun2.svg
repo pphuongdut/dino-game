@@ -3,12 +3,8 @@
   <defs>
     <style>
       .cls-1 {
-        fill: url(#radial-gradient-3);
-        opacity: .2;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        mix-blend-mode: color-dodge;
+        fill: url(#radial-gradient);
+        opacity: .43;
       }
 
       .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
@@ -16,74 +12,96 @@
       }
 
       .cls-2 {
-        fill: url(#radial-gradient-4);
-      }
-
-      .cls-2, .cls-3 {
-        opacity: .48;
+        fill: url(#radial-gradient-2);
+        mix-blend-mode: screen;
       }
 
       .cls-3 {
-        fill: url(#radial-gradient-2);
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_176);
+        opacity: .2;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        mix-blend-mode: color-dodge;
+      }
+
+      .cls-4 {
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_7);
+      }
+
+      .cls-4, .cls-5 {
+        opacity: .48;
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient-3);
       }
 
       .cls-6 {
         isolation: isolate;
       }
-
-      .cls-4 {
-        fill: url(#radial-gradient);
-        mix-blend-mode: screen;
-      }
-
-      .cls-5 {
-        fill: #fff;
-      }
     </style>
-    <radialGradient id="radial-gradient" cx="-836.29" cy="707.54" fx="-836.29" fy="707.54" r="123.31" gradientTransform="translate(-1255.94 -1117.18) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="radial-gradient" cx="379.65" cy="153.55" fx="379.65" fy="153.55" r="179.11" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#e6941f"/>
-      <stop offset=".36" stop-color="#976732" stop-opacity=".66"/>
-      <stop offset="1" stop-color="#001059" stop-opacity="0"/>
+      <stop offset=".12" stop-color="#e6941f" stop-opacity=".98"/>
+      <stop offset=".24" stop-color="#e6941f" stop-opacity=".93"/>
+      <stop offset=".36" stop-color="#e6941f" stop-opacity=".84"/>
+      <stop offset=".49" stop-color="#e6941f" stop-opacity=".71"/>
+      <stop offset=".61" stop-color="#e6941f" stop-opacity=".55"/>
+      <stop offset=".74" stop-color="#e6941f" stop-opacity=".35"/>
+      <stop offset=".86" stop-color="#e6941f" stop-opacity=".12"/>
+      <stop offset=".92" stop-color="#e6941f" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="radial-gradient-2" cx="-826.4" cy="712.31" fx="-826.4" fy="712.31" r="117.98" gradientTransform="translate(-1255.94 -1117.18) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="radial-gradient-2" cx="-836.29" cy="333.63" fx="-836.29" fy="333.63" r="123.31" gradientTransform="translate(-1255.94 -402.19) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#e6941f"/>
-      <stop offset=".36" stop-color="#8f6234" stop-opacity=".63"/>
-      <stop offset=".8" stop-color="#29274e" stop-opacity=".18"/>
-      <stop offset="1" stop-color="#001059" stop-opacity="0"/>
+      <stop offset=".36" stop-color="#976114" stop-opacity=".66"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="radial-gradient-3" cx="-771.65" cy="723.14" fx="-771.65" fy="723.14" r="117.98" gradientTransform="translate(-1255.94 -1117.18) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0a175a" stop-opacity="0"/>
-      <stop offset=".19" stop-color="#0c1859" stop-opacity=".01"/>
-      <stop offset=".3" stop-color="#131c57" stop-opacity=".05"/>
-      <stop offset=".38" stop-color="#212453" stop-opacity=".11"/>
-      <stop offset=".46" stop-color="#332e4e" stop-opacity=".19"/>
-      <stop offset=".52" stop-color="#4c3c48" stop-opacity=".3"/>
-      <stop offset=".58" stop-color="#694d40" stop-opacity=".44"/>
-      <stop offset=".64" stop-color="#8d6136" stop-opacity=".6"/>
-      <stop offset=".69" stop-color="#b5782b" stop-opacity=".78"/>
-      <stop offset=".74" stop-color="#e2921f" stop-opacity=".99"/>
+    <radialGradient id="radial-gradient-3" cx="-826.4" cy="338.4" fx="-826.4" fy="338.4" r="117.98" gradientTransform="translate(-1255.94 -402.19) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6941f"/>
+      <stop offset=".1" stop-color="#ce851b" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#603e0d" stop-opacity=".42"/>
+      <stop offset=".86" stop-color="#1b1103" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_176" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 176" cx="-771.65" cy="349.23" fx="-771.65" fy="349.23" r="117.98" gradientTransform="translate(-1255.94 -402.19) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".19" stop-color="#020100"/>
+      <stop offset=".3" stop-color="#0a0601"/>
+      <stop offset=".38" stop-color="#180f03"/>
+      <stop offset=".46" stop-color="#2b1c05"/>
+      <stop offset=".52" stop-color="#452c09"/>
+      <stop offset=".58" stop-color="#64400d"/>
+      <stop offset=".64" stop-color="#895812"/>
+      <stop offset=".69" stop-color="#b37318"/>
+      <stop offset=".74" stop-color="#e2911e"/>
       <stop offset=".75" stop-color="#e6941f"/>
-      <stop offset=".98" stop-color="#001059" stop-opacity="0"/>
+      <stop offset=".98" stop-color="#000"/>
     </radialGradient>
-    <radialGradient id="radial-gradient-4" cx="-803.59" cy="721.52" fx="-803.59" fy="721.52" r="32.81" gradientTransform="translate(-1255.94 -1117.18) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_7" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 7" cx="-803.59" cy="347.61" fx="-803.59" fy="347.61" r="32.81" gradientTransform="translate(-1255.94 -402.19) rotate(-180) scale(1.92 -1.91)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#e6941f"/>
-      <stop offset=".28" stop-color="#976732" stop-opacity=".66"/>
-      <stop offset=".53" stop-color="#564143" stop-opacity=".38"/>
-      <stop offset=".75" stop-color="#27264e" stop-opacity=".17"/>
-      <stop offset=".91" stop-color="#0a1656" stop-opacity=".05"/>
-      <stop offset="1" stop-color="#001059" stop-opacity="0"/>
+      <stop offset=".12" stop-color="#bd7919"/>
+      <stop offset=".29" stop-color="#845511"/>
+      <stop offset=".46" stop-color="#54360b"/>
+      <stop offset=".62" stop-color="#301e06"/>
+      <stop offset=".77" stop-color="#150d02"/>
+      <stop offset=".9" stop-color="#050300"/>
+      <stop offset="1" stop-color="#000"/>
     </radialGradient>
   </defs>
   <g class="cls-6">
     <g id="Layer_2" data-name="Layer 2">
       <g id="Layer_1-2" data-name="Layer 1">
         <g>
-          <path class="cls-5" d="m435.44,235.23c0,46.56-37.28,84.32-83.29,84.32s-79.86-34.39-83.06-78h109.98v-12.71h-109.98c3.22-43.58,39.18-77.93,83.06-77.93s83.29,37.75,83.29,84.31Z"/>
+          <circle class="cls-1" cx="340.47" cy="235.78" r="95.47"/>
           <g>
-            <ellipse class="cls-4" cx="350.9" cy="235.78" rx="236.93" ry="235.78"/>
-            <ellipse class="cls-3" cx="331.9" cy="244.91" rx="226.7" ry="225.6"/>
-            <ellipse class="cls-1" cx="226.7" cy="265.62" rx="226.7" ry="225.6"/>
-            <ellipse class="cls-2" cx="288.07" cy="262.52" rx="63.04" ry="62.73"/>
+            <ellipse class="cls-2" cx="350.9" cy="235.78" rx="236.93" ry="235.78"/>
+            <ellipse class="cls-5" cx="331.9" cy="244.91" rx="226.7" ry="225.6"/>
+            <ellipse class="cls-3" cx="226.7" cy="265.62" rx="226.7" ry="225.6"/>
+            <ellipse class="cls-4" cx="288.07" cy="262.52" rx="63.04" ry="62.73"/>
+          </g>
+          <g id="_1nCUt6.tif" data-name="1nCUt6.tif">
+            <image id="Layer_0" data-name="Layer 0" width="204" height="172" transform="translate(281.57 184.46) scale(.6)" xlink:href="data:image/png;base64,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"/>
           </g>
         </g>
       </g>
