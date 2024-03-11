@@ -96,7 +96,7 @@ function updateSpeedScale(delta) {
 function updateScore(delta) {
     score += delta * 0.001;
     const roundedUpScore = Math.round(score * 1000) / 1000;
-    scoreSpan.textContent = roundedUpScore + ' ETH';
+    scoreSpan.textContent = roundedUpScore + ' SOL';
 }
 
 function updateFinalScore() {
